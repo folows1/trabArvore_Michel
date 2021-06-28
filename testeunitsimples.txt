@@ -1,0 +1,48 @@
+1
+Apartamento
+4
+Sala
+1
+10000
+Cozinha
+1
+20000
+Quarto
+3
+10000
+Banheiro
+2
+5000
+2
+Sala
+TV
+1
+2000
+2
+Sala
+Sofa
+3
+2000
+2
+Sala
+Moveis Sala
+5
+600
+2
+Moveis Sala
+Estante
+1
+2000
+2
+Moveis Sala
+Mesa Sala
+1
+1000
+4
+5
+6
+3
+Mesa Sala
+3
+Salão
+9
